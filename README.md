@@ -1,4 +1,4 @@
-Fraud Detection System: End-to-End Medallion Architecture
+# Fraud Detection System: End-to-End Medallion Architecture
 This project demonstrates a high-scale financial fraud detection pipeline built on Databricks. It processes over 6.3 million transactions, moving data through a structured Medallion Architecture—from raw ingestion to deep learning-based classification.
 
 ## Project Overview
